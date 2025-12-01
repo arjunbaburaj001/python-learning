@@ -1,0 +1,5 @@
+A, B, X, Y = map(int, input().split())
+distanceNormal = abs(A-B)
+distanceTeleport = abs(A-X) + abs(B-Y)
+minimumDistance = min(distanceNormal, distanceTeleport)
+print(minimumDistance)
