@@ -1,5 +1,8 @@
 #Arithmetic Table Below (Basic)
 
+
+
+
 4 + 2 #Result = 6, Basic addition
 4 - 2 #Result = 2, Basic subtraction
 4 * 2 #Result = 8, Basic multiplication
